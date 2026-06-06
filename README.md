@@ -6,9 +6,9 @@ BlockRushMiniPuzzle - Mobil cihazlar için Block Rush & Crush Mini Puzzle uygula
 
 Uygulamayı kullanmadan önce lütfen aşağıdaki belgeleri okuyunuz:
 
-- 📜 [Şartlar ve Koşullar](https://github.com/Batuhan-Kartal/BlockRushMiniPuzzle/blob/main/TERMS_CONDITIONS.md)
-- 🔒 [Gizlilik Politikası](https://github.com/Batuhan-Kartal/BlockRushMiniPuzzle/blob/main/PRIVACY_POLICY.md)
+- **📜 [Şartlar ve Koşullar](https://batuhan-kartal.github.io/BlockRushMiniPuzzle/TERMS_CONDITIONS.html)**
+- **🔒 [Gizlilik Politikası](https://batuhan-kartal.github.io/BlockRushMiniPuzzle/PRIVACY_POLICY.html)**
 
 ## İletişim
 
-Sorularınız için: blockrushminipuzzle@gmail.com
+📧 **Sorularınız için:** blockrushminipuzzle@gmail.com
