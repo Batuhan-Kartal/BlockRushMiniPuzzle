@@ -1,12 +1,15 @@
 <!DOCTYPE html>
 <html lang="tr">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kullanım Koşulları - Block Rush & Crush Mini Puzzle</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@500;600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Outfit:wght@500;600;700;800&family=Inter:wght@400;500;600&display=swap"
+        rel="stylesheet">
     <style>
         :root {
             --primary: #2563eb;
@@ -172,76 +175,93 @@
             body {
                 padding: 20px 12px;
             }
+
             .container {
                 padding: 30px 20px;
                 border-radius: 18px;
             }
+
             h1 {
                 font-size: 1.75rem;
             }
         }
     </style>
 </head>
+
 <body>
 
-<div class="container">
-    <div class="header">
-        <span class="badge">BLOCK RUSH & CRUSH MINI PUZZLE</span>
-        <h1>Kullanım Koşulları (Terms of Service)</h1>
-        <div class="subtitle">Oyun Kullanım ve Hizmet Şartları Sözleşmesi</div>
-        <div class="last-updated">Son Güncelleme: 13 Eylül 2026</div>
+    <div class="container">
+        <div class="header">
+            <span class="badge">BLOCK RUSH & CRUSH MINI PUZZLE</span>
+            <h1>Kullanım Koşulları (Terms of Service)</h1>
+            <div class="subtitle">Oyun Kullanım ve Hizmet Şartları Sözleşmesi</div>
+            <div class="last-updated">Son Güncelleme: 13 Eylül 2026</div>
+        </div>
+
+        <p>
+            Bu Kullanım Koşulları ("Koşullar"), <strong>Batuhan Kartal</strong> ("Geliştirici") tarafından sunulan
+            <strong>Block Rush & Crush Mini Puzzle</strong> ("Oyun" veya "Uygulama") uygulamasını indirerek, yükleyerek
+            veya oynayarak tarafınızca kabul edilmiş sayılır.
+        </p>
+
+        <h2>1. Hizmetin Kullanımı ve Lisans</h2>
+        <p>
+            Geliştirici, oyunu kişisel, ticari olmayan ve eğlence amaçlı kullanmanız için size sınırlı, münhasır
+            olmayan, devredilemez ve geri alınabilir bir lisans vermektedir. Oyunu veya oyun içeriklerini kaynak koda
+            dönüştürmek (decompile), tersine mühendislik uygulamak veya değiştirmek yasaktır.
+        </p>
+
+        <h2>2. Adil Oyun ve Çevrim İçi Kurallar</h2>
+        <p>
+            Çok oyunculu maçlar ve liderlik tablosu tüm oyuncular için adil, eğlenceli ve rekabetçi bir ortam sunmayı
+            hedefler. Aşağıdaki eylemler kesinlikle yasaktır ve skor/hesap sıfırlanmasına sebep olabilir:
+        </p>
+        <ul>
+            <li>Oyun skorlarını veya ağ paketlerini manipüle etmek, yetkisiz üçüncü parti yazılım/bot kullanmak.</li>
+            <li>Liderlik tablosu takma adlarında (rumuz) hakaret, küfür, nefret söylemi veya yasa dışı ifadeler
+                kullanmak.</li>
+            <li>Çok oyunculu ağ bağlantısını istismar ederek rakiplerin oyun deneyimini kasıtlı olarak bozmak.</li>
+        </ul>
+
+        <h2>3. Fikri Mülkiyet Hakları</h2>
+        <p>
+            Block Rush & Crush Mini Puzzle'a ait tüm kaynak kodları, grafik tasarımları, arayüz öğeleri, animasyonlar,
+            logolar ve ses efektleri telif hakkı ve ilgili fikri mülkiyet yasaları ile korunmaktadır. Önceden yazılı
+            izin alınmaksızın kopyalanamaz veya dağıtılamaz.
+        </p>
+
+        <h2>4. Sanal İlerlemeler ve Skorlar</h2>
+        <p>
+            Oyun içerisinde kazanılan kupa/trophy sayıları, kombo çarpanları, sıralama dereceleri ve kaydedilen oyun
+            durumları yalnızca oyun içi sanal göstergelerdir. Bu değerlerin gerçek dünyada parasal veya takas edilebilir
+            bir karşılığı bulunmamaktadır.
+        </p>
+
+        <h2>5. Sorumluluğun Sınırlandırılması</h2>
+        <p>
+            Oyun "olduğu gibi" (as-is) ve "mevcut olduğu şekilde" sunulmaktadır. Geliştirici, oyunun kesintisiz, hatasız
+            veya her cihazda kusursuz çalışacağına dair garanti vermez; ancak en yüksek performans ve kullanıcı deneyimi
+            için düzenli güncellemeler sunmayı hedefler.
+        </p>
+
+        <h2>6. Koşullarda Değişiklikler</h2>
+        <p>
+            Geliştirici, bu kullanım koşullarını zaman zaman güncelleme hakkını saklı tutar. Değişiklikler bu sayfada
+            yayımlandığı tarihten itibaren geçerli olur.
+        </p>
+
+        <div class="contact-box">
+            <h3>İletişim ve Destek</h3>
+            <p style="margin-bottom: 6px;">Kullanım koşullarıyla ilgili soru veya geri bildirimleriniz için:</p>
+            <p><strong>Geliştirici:</strong> Batuhan Kartal</p>
+            <p><strong>E-posta:</strong> <a href="mailto:veloragamespuzzle@gmail.com">veloragamespuzzle@gmail.com</a></p>
+        </div>
+
+        <div class="footer">
+            &copy; 2026 Block Rush & Crush Mini Puzzle - Batuhan Kartal. Tüm hakları saklıdır.
+        </div>
     </div>
-
-    <p>
-        Bu Kullanım Koşulları ("Koşullar"), <strong>Batuhan Kartal</strong> ("Geliştirici") tarafından sunulan <strong>Block Rush & Crush Mini Puzzle</strong> ("Oyun" veya "Uygulama") uygulamasını indirerek, yükleyerek veya oynayarak tarafınızca kabul edilmiş sayılır.
-    </p>
-
-    <h2>1. Hizmetin Kullanımı ve Lisans</h2>
-    <p>
-        Geliştirici, oyunu kişisel, ticari olmayan ve eğlence amaçlı kullanmanız için size sınırlı, münhasır olmayan, devredilemez ve geri alınabilir bir lisans vermektedir. Oyunu veya oyun içeriklerini kaynak koda dönüştürmek (decompile), tersine mühendislik uygulamak veya değiştirmek yasaktır.
-    </p>
-
-    <h2>2. Adil Oyun ve Çevrim İçi Kurallar</h2>
-    <p>
-        Çok oyunculu maçlar ve liderlik tablosu tüm oyuncular için adil, eğlenceli ve rekabetçi bir ortam sunmayı hedefler. Aşağıdaki eylemler kesinlikle yasaktır ve skor/hesap sıfırlanmasına sebep olabilir:
-    </p>
-    <ul>
-        <li>Oyun skorlarını veya ağ paketlerini manipüle etmek, yetkisiz üçüncü parti yazılım/bot kullanmak.</li>
-        <li>Liderlik tablosu takma adlarında (rumuz) hakaret, küfür, nefret söylemi veya yasa dışı ifadeler kullanmak.</li>
-        <li>Çok oyunculu ağ bağlantısını istismar ederek rakiplerin oyun deneyimini kasıtlı olarak bozmak.</li>
-    </ul>
-
-    <h2>3. Fikri Mülkiyet Hakları</h2>
-    <p>
-        Block Rush & Crush Mini Puzzle'a ait tüm kaynak kodları, grafik tasarımları, arayüz öğeleri, animasyonlar, logolar ve ses efektleri telif hakkı ve ilgili fikri mülkiyet yasaları ile korunmaktadır. Önceden yazılı izin alınmaksızın kopyalanamaz veya dağıtılamaz.
-    </p>
-
-    <h2>4. Sanal İlerlemeler ve Skorlar</h2>
-    <p>
-        Oyun içerisinde kazanılan kupa/trophy sayıları, kombo çarpanları, sıralama dereceleri ve kaydedilen oyun durumları yalnızca oyun içi sanal göstergelerdir. Bu değerlerin gerçek dünyada parasal veya takas edilebilir bir karşılığı bulunmamaktadır.
-    </p>
-
-    <h2>5. Sorumluluğun Sınırlandırılması</h2>
-    <p>
-        Oyun "olduğu gibi" (as-is) ve "mevcut olduğu şekilde" sunulmaktadır. Geliştirici, oyunun kesintisiz, hatasız veya her cihazda kusursuz çalışacağına dair garanti vermez; ancak en yüksek performans ve kullanıcı deneyimi için düzenli güncellemeler sunmayı hedefler.
-    </p>
-
-    <h2>6. Koşullarda Değişiklikler</h2>
-    <p>
-        Geliştirici, bu kullanım koşullarını zaman zaman güncelleme hakkını saklı tutar. Değişiklikler bu sayfada yayımlandığı tarihten itibaren geçerli olur.
-    </p>
-
-    <div class="contact-box">
-        <h3>İletişim ve Destek</h3>
-        <p style="margin-bottom: 6px;">Kullanım koşullarıyla ilgili soru veya geri bildirimleriniz için:</p>
-        <p><strong>Geliştirici:</strong> Batuhan Kartal</p>
-        <p><strong>E-posta:</strong> <a href="mailto:batuhankartaldev@gmail.com">batuhankartaldev@gmail.com</a></p>
-    </div>
-
-    <div class="footer">
-        &copy; 2026 Block Rush & Crush Mini Puzzle - Batuhan Kartal. Tüm hakları saklıdır.
-    </div>
-</div>
 
 </body>
+
 </html>
