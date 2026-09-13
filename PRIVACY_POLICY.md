@@ -250,7 +250,7 @@
         <h3>Sorularınız veya Talepleriniz İçin İletişim</h3>
         <p style="margin-bottom: 6px;">Gizlilik politikamızla ilgili her türlü soru, öneri veya destek talebiniz için:</p>
         <p><strong>Geliştirici:</strong> Batuhan Kartal</p>
-        <p><strong>E-posta:</strong> <a href="mailto:batuhankartaldev@gmail.com">batuhankartaldev@gmail.com</a></p>
+        <p><strong>E-posta:</strong> <a href="mailto:veloragamespuzzle@gmail.com">veloragamespuzzle@gmail.com</a></p>
     </div>
 
     <div class="footer">
